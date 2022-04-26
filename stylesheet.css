@@ -11,5 +11,10 @@ html {
 }
 h1.title {
 text-align: center;
-padding-top: 200px;
+padding-top: 100px;
+
+}
+p.subtitle {
+text-align: center;
+padding: 20px;
 }
