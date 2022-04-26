@@ -20,5 +20,7 @@ padding: 30px;
 text-size-adjust: 30px;
 }
 div.pic{
+    text-align: center;
     height:-100px;
+    width:80%;
 }
