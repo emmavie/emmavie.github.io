@@ -9,3 +9,7 @@
 html {
     scroll-behavior: smooth;
 }
+h1.title {
+align-items:center;
+padding-top: 30;
+}
