@@ -12,7 +12,7 @@ html {
 h1.title {
 text-align: center;
 padding-top: 80px;
-
+text-size-adjust: 300px;
 }
 p.subtitle {
 text-align: center;
@@ -20,5 +20,5 @@ padding: 30px;
 text-size-adjust: 30px;
 }
 div.pic{
-    height:20px;
+    height:10px;
 }
