@@ -1,6 +1,7 @@
 * {
     padding: 0;
     font-family: 'Segoe UI';
+    
     background: #1c1b1c;
     max-width: 100%;
     margin: 0;
@@ -13,11 +14,13 @@ h1.title {
 text-align: center;
 padding-top: 60px;
 text-size-adjust: 300px;
+color:white;
 }
 p.subtitle {
 text-align: center;
 padding: 30px;
 text-size-adjust: 30px;
+color:white;
 }
 div.pic{
    padding-left: 30px;
