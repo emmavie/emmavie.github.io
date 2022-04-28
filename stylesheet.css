@@ -1,7 +1,7 @@
 * {
     padding: 0;
     font-family: 'Segoe UI';
-    background: #fff5ff;
+    background: #1c1b1c;
     max-width: 100%;
     margin: 0;
     margin-bottom: 0;
@@ -20,7 +20,7 @@ padding: 30px;
 text-size-adjust: 30px;
 }
 div.pic{
-    text-align: center;
+   padding-left: 30px;
     height:-100px;
     width:80%;
 }
