@@ -42,6 +42,6 @@ div.pic {
     width: 100%;
 }
 div.mainImage{
-width: 1000px;
+width: fit-content;
 height:auto;
 }
