@@ -61,7 +61,7 @@ li.list {
     background-color:transparent;
 }
 li.logo {
- 
+ padding-top: 20px;
     width: 100px;
     display: inline-block;
     background-color:transparent;
