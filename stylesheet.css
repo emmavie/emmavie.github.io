@@ -56,25 +56,21 @@ ul.list {
 
 li.list {
     margin: 5px;
-    float: left;
     width: 11%;
     display: inline-block;
 }
 li.logo {
     margin: 5px;
-    float: left;
     width: 11%;
     display: inline-block;
 }
 li.home {
     margin: 5px;
-    float: left;
     width: 11%;
     display: inline-block;
 }
 li.dropdown {
     margin: 5px;
-    float: left;
     width: 11%;
     display: inline-block;
 }
@@ -125,10 +121,6 @@ li.dropdown {
     width: 110px;
     margin-top: -15px;
    
-}
-
-.nav {
-    background-color: grey;
 }
 
 .title {
