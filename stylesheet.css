@@ -41,6 +41,7 @@ div.pic {
     padding-left: 250px;
     width: 100%;
 }
-mainImage{
-
+div.mainImage{
+width: 100px;
+height:auto;
 }
