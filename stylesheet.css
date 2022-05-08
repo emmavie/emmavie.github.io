@@ -51,6 +51,7 @@ ul.list {
     position: fixed;
     top: 0px;
     right: 5px;
+    background-color:transparent;
 }
 
 li.list {
