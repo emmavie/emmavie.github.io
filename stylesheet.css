@@ -48,7 +48,8 @@ height:500px;
 
 ul.list {
     list-style-type: none;
-    align-items: top;
+    position: fixed;
+    top: 0px;
 }
 
 li.list {
@@ -67,7 +68,7 @@ li.home {
     display: inline-block;
 }
 li.dropdown {
-  
+
     width: 11%;
     display: inline-block;
 }
