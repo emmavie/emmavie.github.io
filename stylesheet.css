@@ -58,16 +58,19 @@ li.list {
  
     width: 11%;
     display: inline-block;
+    background-color:transparent;
 }
 li.logo {
  
     width: 11%;
     display: inline-block;
+    background-color:transparent;
 }
 li.home {
  
     width: 11%;
     display: inline-block;
+    background-color:transparent;
 }
 li.dropdown {
 
