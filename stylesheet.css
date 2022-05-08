@@ -16,7 +16,6 @@ padding-top: 5px;
 text-size-adjust: 200px;
 color:white;
 }
-}
 
 h1.miniTitle {
     text-align: left;
@@ -31,14 +30,13 @@ text-size-adjust: 30px;
 color:white;
 }
 
-p . paragraph {
+p.paragraph {
     text-align: left;
     padding: 20px;
     text-size-adjust: 20px;
     color: white;
 }
-   
-}
+
 div.pic {
     padding-left: 250px;
     width: 100%;
