@@ -50,6 +50,7 @@ ul.list {
     list-style-type: none;
     position: fixed;
     top: 0px;
+    right: 5px;
 }
 
 li.list {
