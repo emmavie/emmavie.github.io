@@ -32,6 +32,7 @@ h1.message {
 h1.miniTitle {
     text-align: left;
     padding-top: 5px;
+    padding-left:100px;
     text-size-adjust: 100px;
     color: white;
 }
