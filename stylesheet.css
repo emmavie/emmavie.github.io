@@ -62,6 +62,7 @@ li.list {
     display: inline-block;
 }
 li.logo {
+    left:0px;
     display: inline-block;
     padding-top: 22px;
     padding-inline-end: 0;
