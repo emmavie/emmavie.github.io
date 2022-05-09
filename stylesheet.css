@@ -71,6 +71,7 @@ li.list{
     display: inline;
     top:0;
     background-color: transparent;
+    vertical-align: top;
 
 }   
 ul.menu{
@@ -82,6 +83,7 @@ li.logo {
     top:10px;
     display: inline-block;
     background-color: transparent;
+    vertical-align: top;
 }
 li.home {
     margin: 2px;
@@ -90,7 +92,6 @@ li.home {
     background-color: transparent;
 }
 ul.list{
-    top:-10px;
     background-color: transparent;
 }
 div.menu{
