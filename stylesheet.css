@@ -90,5 +90,13 @@ li.list{
 ul.menu{
     display: inline;
 } 
+li.logo {
+    margin: 5px;
+    display: inline-block;
+}
+li.home {
+    margin: 5px;
+    display: inline-block;
+}
 
 
