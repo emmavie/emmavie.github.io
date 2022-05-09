@@ -47,7 +47,7 @@ height:500px;
 }
 
 ul.list {
-    list-style-type: none;
+    list-style-type:none;
     position: fixed;
     top: 0px;
     left: 5px;
@@ -60,6 +60,7 @@ li.list {
     display: inline-block;
     background-color:transparent;
     padding:20px;
+    display: inline-block;
 }
 li.logo {
  padding-top: 22px;
