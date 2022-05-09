@@ -93,6 +93,7 @@ ul.menu{
 li.logo {
     margin: 5px;
     display: inline-block;
+    width: 200px;
 }
 li.home {
     margin: 5px;
