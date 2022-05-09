@@ -129,7 +129,7 @@ div.pic{
 div.gif{
     padding-top:80px;
     padding-right: 20px;
-    size-adjust: 80% !important;
+    width:300px;
     float: right;
 
 }
