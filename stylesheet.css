@@ -68,7 +68,7 @@ li.logo {
     background-color:transparent;
 }
 li.home {
- 
+    padding:20px;
     width: 30px;
     display: inline-block;
     background-color:transparent;
