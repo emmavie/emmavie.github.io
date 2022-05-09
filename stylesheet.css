@@ -86,6 +86,9 @@ li a, .dropbtn {
     }
 li.list{
     display: inline;
-}    
+}   
+ul.menu{
+    display: inline;
+} 
 
 
