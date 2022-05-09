@@ -46,6 +46,6 @@ width: fit-content;
 height:500px;
 }
 
-div.menu{
-  top:5px;  
+ul.menu{
+    top:5px;   
 }
