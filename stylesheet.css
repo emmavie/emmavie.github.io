@@ -118,4 +118,9 @@ div.pic{
     width: 300px;
     float: left;
 }
+div.gif{
+    padding-top:80px;
+    width: 300px;
+    float: right;
+}
 
