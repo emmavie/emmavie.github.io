@@ -50,12 +50,11 @@ ul.list {
     list-style-type:none;
     position: fixed;
     top: 0px;
-    left:20px;
     background-color:transparent;
 }
 
 li.list {
- 
+    left: 20px;
     width: 30px;
     display: inline-block;
     background-color:transparent;
