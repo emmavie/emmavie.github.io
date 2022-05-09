@@ -54,9 +54,6 @@ li a {
         background-color: #a6d5a6;
     }
 
-
-
-
     .dropdown-content a {
         color: white;
         padding: 12px;
@@ -66,10 +63,6 @@ li a {
     }
 
        
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
     .logo img {
         margin-top: -10px;
         margin-left: 0;
