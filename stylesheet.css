@@ -91,7 +91,7 @@ li.logo {
     display: inline-block;
     background-color: transparent;
     vertical-align: top;
-    padding-right: 10px;
+    padding-right: -10px;
 }
 li.home {
     margin: 2px;
