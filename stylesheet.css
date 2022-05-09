@@ -150,5 +150,6 @@ div.under{
     display: flex;
     align-items: center;
     justify-content: center;
+    top:50px;
 }
 
