@@ -142,6 +142,9 @@ div.content{
     text-align: left;
 }
 h3.aboutMe1{
-  left:600px;  
+  left:600px; 
+  margin:40px;
+  margin-left: 100px;
+  text-align: left;
 }
 
