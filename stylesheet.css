@@ -63,8 +63,9 @@ li.list {
     display: inline-block;
 }
 li.logo {
- padding-top: 22px;
+    padding-top: 22px;
     width: 150px;
+    margin:0px;
     background-color:transparent;
 }
 li.home {
