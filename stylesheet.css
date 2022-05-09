@@ -50,6 +50,7 @@ ul.list {
     list-style-type:none;
     position: fixed;
     top: 0px;
+    left:20px;
     background-color:transparent;
 }
 
@@ -62,6 +63,7 @@ li.list {
     display: inline-block;
 }
 li.logo {
+    top:5px;
     left:0px;
     display: inline-block;
     padding-top: 22px;
