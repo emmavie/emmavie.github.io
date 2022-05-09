@@ -21,13 +21,13 @@ text-size-adjust: 200px;
 color:white;
 
 }
+
 h1.message {
     text-align: center;
     padding-top: 30px;
-    padding-left: ;
+    padding-left:30px ;
     text-size-adjust: 200px;
-    color:white;
-    
+    color:white;   
  }
 
 h1.miniTitle {
