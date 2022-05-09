@@ -63,6 +63,7 @@ li.list {
     display: inline-block;
 }
 li.logo {
+    display: inline-block;
     padding-top: 22px;
     width: 150px;
     margin:0px;
