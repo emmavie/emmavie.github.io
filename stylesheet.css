@@ -129,10 +129,12 @@ div.pic{
 div.gif{
     padding-top:80px;
     padding-right: 80px;
-    width:450px;
+    width:400px;
     float: right;
-
+}   img{
+    padding:20px;
 }
+
 div.content{
     margin:40px;
     margin-left: 100px;
