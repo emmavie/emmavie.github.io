@@ -138,7 +138,8 @@ div.gif{
 div.content{
     margin:40px;
     margin-left: 100px;
-    left:600px;
+    right:600px;
+    text-align: left;
 }
 h3.aboutMe{
   left:600px;  
