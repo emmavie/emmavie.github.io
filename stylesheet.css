@@ -24,10 +24,9 @@ color:white;
 
 h1.message {
     text-align: center;
-    padding-top: 50px;
-    padding-left:400px ;
     text-size-adjust: 200px;
-    color:white;   
+    color:white;  
+    text-align: center; 
  }
 
 h1.miniTitle {
