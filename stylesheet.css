@@ -51,17 +51,14 @@ li a, .dropbtn {
 }
 
     li a:hover, .dropdown:hover .dropbtn {
-        background-color: #9897A9;
+        background-color: #b3e5d6;
     }
 
-li.dropdown {
-    display: inline-block;
-}
 
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #4D4C5C;
+    background-color: transparent;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -76,7 +73,7 @@ li.dropdown {
     }
 
         .dropdown-content a:hover {
-            background-color: #9897A9;
+            background-color: #b7e8cb;
         }
 
 .dropdown:hover .dropdown-content {
