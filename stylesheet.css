@@ -10,6 +10,9 @@
 html {
     scroll-behavior: smooth;
 }
+div.container{
+    margin-top: 200px;
+}
 h1.title {
 text-align: center;
 padding-top: 5px;
@@ -62,7 +65,6 @@ li a {
     .logo img {
         margin-top: 10px;
         margin-left: 5px;
-        width: 50%;
         min-width:80px;
         padding:0;
         background-color: transparent;
