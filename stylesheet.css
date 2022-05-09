@@ -12,12 +12,14 @@ html {
 }
 div.container{
     margin-top: 356px;
+    text-shadow: 2px 2px #aec4b4;
 }
 h1.title {
 text-align: center;
 padding-top: 5px;
 text-size-adjust: 200px;
 color:white;
+
 }
 
 h1.miniTitle {
