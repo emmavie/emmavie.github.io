@@ -79,6 +79,7 @@ li a, .dropbtn {
     }
 li.list{
     display: inline;
+    top:0;
 }   
 ul.menu{
     display: inline;
