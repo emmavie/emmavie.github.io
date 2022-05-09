@@ -114,7 +114,8 @@ div.height{
     margin-left: 10px;
 }
 div.pic{
-    width: 300px;
-    float: right;
+    top:40px;
+    width: 350px;
+    float: left;
 }
 
