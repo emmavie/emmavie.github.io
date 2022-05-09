@@ -48,12 +48,12 @@ li a {
     color: white;
     padding: 14px 16px;
     text-decoration: none;
+    background-color: transparent;
 }
 
     li a:hover{
         background-color: #a6d5a6;
     }
-
        
     .logo img {
         margin-top: -10px;
