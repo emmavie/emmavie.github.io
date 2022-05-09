@@ -62,6 +62,10 @@ li.list {
     padding:20px;
     display: inline-block;
 }
+div.menu{
+    top:5px;
+    left:0px;  
+}
 li.logo {
     top:5px;
     left:0px;
