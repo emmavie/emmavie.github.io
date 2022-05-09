@@ -21,6 +21,13 @@ text-size-adjust: 200px;
 color:white;
 
 }
+h1. message {
+    text-align: center;
+    padding-top: 5px;
+    text-size-adjust: 200px;
+    color:white;
+    
+    }
 
 h1.miniTitle {
     text-align: left;
