@@ -52,6 +52,10 @@ ul.menu{
 ul.list{
     display: inline-block;
 }
+li.list{
+    display: inline-block;
+    top:5px;  
+}
 li.logo{
     width:200px;
     padding: 0;
