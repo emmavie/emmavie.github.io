@@ -72,9 +72,7 @@ li a, .dropbtn {
         text-align: left;
     }
 
-        .dropdown-content a:hover {
-            background-color: #b7e8cb;
-        }
+       
 
 .dropdown:hover .dropdown-content {
     display: block;
