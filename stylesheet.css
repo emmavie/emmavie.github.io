@@ -59,6 +59,7 @@ li.list {
     width: 30px;
     display: inline-block;
     background-color:transparent;
+    padding:20px;
 }
 li.logo {
  padding-top: 22px;
