@@ -37,13 +37,10 @@ p.paragraph {
     color: white;
 }
 
-div.pic {
-    padding-left: 250px;
-    width: 100%;
-}
 div.mainImage{
 width: fit-content;
 height:500px;
+padding:0;
 }
 
 ul.menu{
