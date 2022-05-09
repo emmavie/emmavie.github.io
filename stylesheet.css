@@ -64,6 +64,7 @@ li a {
         width: 50%;
         min-width:80px;
         padding:0;
+        ackground-color: transparent;
     }
 li.list{
     display: inline;
