@@ -80,9 +80,11 @@ li a, .dropbtn {
 li.list{
     display: inline;
     top:0;
+    background-color: transparent;
 }   
 ul.menu{
     display: inline;
+    background-color: transparent;
 } 
 li.logo {
     margin: 5px;
