@@ -99,6 +99,7 @@ li.home {
 }
 ul.list{
     background-color: transparent;
+    padding-top: 20px;
 }
 div.menu{
     top:0;
