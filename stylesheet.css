@@ -91,15 +91,19 @@ li.logo {
     display: inline-block;
     width: 150px;
     height: 110px;
+    background-color: transparent;
 }
 li.home {
     margin: 5px;
     display: inline-block;
+    background-color: transparent;
 }
 ul.list{
     top:0;
+    background-color: transparent;
 }
 div.menu{
     top:0;
+    background-color: transparent;
 }
 
