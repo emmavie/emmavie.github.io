@@ -147,6 +147,6 @@ h3.aboutMe1{
   text-align: left;
 }
 div.under{
-    margin-left:300px;
+    flex:center;
 }
 
