@@ -100,5 +100,7 @@ li.home {
     margin: 5px;
     display: inline-block;
 }
-
+ul.list{
+    top:2px;
+}
 
