@@ -59,8 +59,8 @@ li a {
     }
        
     .logo img {
-        margin-top: -10px;
-        margin-left: 0;
+        margin-top: 10px;
+        margin-left: 5px;
         width: 50%;
         min-width:80px;
         padding:0;
