@@ -53,6 +53,6 @@ ul.list{
     display: inline-block;
 }
 li.logo{
-    size:20px;
+    width:200px;
     padding: 0;
 }
