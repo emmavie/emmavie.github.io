@@ -85,6 +85,7 @@ ul.menu{
 li.logo {
     top:10px;
     display: inline-block;
+    width:50%;
     background-color: transparent;
     vertical-align: top;
 }
