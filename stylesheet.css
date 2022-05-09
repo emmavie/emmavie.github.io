@@ -90,7 +90,7 @@ li.home {
     background-color: transparent;
 }
 ul.list{
-    top:0;
+    top:-10px;
     background-color: transparent;
 }
 div.menu{
