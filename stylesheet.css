@@ -78,13 +78,14 @@ li.list{
     vertical-align: top;
     padding-top: 20px;
     margin-left:20px;
+    text-shadow: 1px 1px #4d514ee2;
 
 }   
 ul.menu{
     display: inline;
     background-color: transparent;
     top:0;
-    text-shadow: 1px 1px #4d514ee2;
+    
 } 
 li.logo {
     display: inline-block;
