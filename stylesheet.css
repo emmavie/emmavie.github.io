@@ -42,6 +42,9 @@ width: fit-content;
 height:0px;
 padding:0;
 }
+img{
+    height:400px;
+}
 
 li a {
     display: inline-block;
