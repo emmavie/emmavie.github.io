@@ -133,11 +133,13 @@ div.gif{
     float: right;
 }   img{
     padding:20px;
-    margin:30px;
 }
 
 div.content{
     margin:40px;
     margin-left: 100px;
+}
+h3.aboutMe{
+    margin:40px;  
 }
 
