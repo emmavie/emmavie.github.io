@@ -49,3 +49,6 @@ height:500px;
 ul.menu{
     top:5px;   
 }
+li.list{
+    display: inline-block;
+}
