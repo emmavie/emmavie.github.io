@@ -44,7 +44,8 @@ padding:0;
 }
 
 ul.menu{
-    top:5px;   
+    top:0px;  
+    align-items: top; 
 }
 ul.list{
     display: inline-block;
@@ -53,9 +54,4 @@ ul.list{
 li.list{
     display: inline-block;
     top:5px;  
-}
-li.logo{
-    width:150px;
-    padding: 0;
-    top:5px; 
 }
