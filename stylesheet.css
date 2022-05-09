@@ -39,7 +39,7 @@ p.paragraph {
 
 div.mainImage{
 width: fit-content;
-height:400px;
+height:0px;
 padding:0;
 }
 
@@ -87,7 +87,7 @@ ul.menu{
     background-color: transparent;
 } 
 li.logo {
-    margin: 5px;
+    top:10px;
     display: inline-block;
     width: 150px;
     height: 110px;
