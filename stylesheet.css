@@ -70,20 +70,21 @@ li.list{
     display: inline;
     top:0;
     background-color: transparent;
+
 }   
 ul.menu{
     display: inline;
     background-color: transparent;
+    top:0;
 } 
 li.logo {
     top:10px;
     display: inline-block;
-    width: 150px;
-    height: 110px;
     background-color: transparent;
 }
 li.home {
-    margin: 5px;
+    margin: 2px;
+    top:0;
     display: inline-block;
     background-color: transparent;
 }
