@@ -127,11 +127,10 @@ div.pic{
 
 }
 div.gif{
-    padding-top:80px;
-    padding-right: 80px;
-    width:400px;
-    float: right;
+    display: flex;
+    justify-content: center;  
 }  
+   
 
 div.content{
     margin:40px;
@@ -159,21 +158,7 @@ h2.links{
 }
 
 form{
-    margin-top: 60px;
-    transition: all 5s ease-in-out;
-
-}
-.contact {
-    width:600px;
-    background:transparent;
-    border:none;
-    outline:none;
-    border-bottom: 1px solid rgb(253, 234, 254);
-    margin-bottom:15px;
+    margin-top: 30px;
 }
 
-form.submit{
-background-color: #c4eac4;
-color:azure;
-}
 
