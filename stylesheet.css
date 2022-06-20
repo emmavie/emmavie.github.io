@@ -1,16 +1,16 @@
 @import "reset.css";
-@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Italiana&family=Lora:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Italiana&family=Lora:ital@1&family=Nanum+Gothic&display=swap');
 
 *{
-    width:100%;
     scroll-behavior: smooth;
     overflow-x: hidden;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 
 body{
     width:100%;
     margin:0;
-    background: #c3d3b2;
+    background: #7E9F5B;
 }
 
 .img{
@@ -22,10 +22,12 @@ height: calc(100vw * 383 / 756);
 }
 
 nav ul{
+
 top:0;
 margin: 0 0 2rem 0;
 display: inline-flex;
-
+font-size: 1.15rem;
+font-weight:bold;
 align-items: center;
 flex-wrap: nowrap;
 justify-content: left;
@@ -43,11 +45,11 @@ nav li a{
     color: white;
     padding: 1rem 1.2rem;
     text-decoration: none;
-    text-shadow: 1px 1px #91a195e2;
+    text-shadow: 1px 1px #303832e2;
     vertical-align: top;
 }
 nav li a:hover{
-    background-color: #a6d5a6;
+    background-color: #3E843E;
 }
 
 .logo img{
@@ -55,11 +57,28 @@ nav li a:hover{
 }
 .title{
     text-align: center;
+    color:#fff;
 }
 .title h1{
     font-family: 'Cookie', cursive;
     font-weight: 1;
-   font-size: 3rem;
+    font-size: 3rem;
+}
+.content{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  margin: 2rem;
+}
+.content img{
+    padding:2rem;
+}
+.content h3{
+    padding:1rem;
+}
+.content p{
+    padding:1.5rem;
 }
 
 
@@ -74,156 +93,4 @@ nav li a:hover{
 
 
 
-
-
-/* 
-* {
-    padding: 0;
-    font-family: 'Segoe UI';
-    background: #c3d3b2;
-    max-width: 100%;
-    margin: 0;
-    margin-bottom: 0;
-}
-html {
-    
-}
-div.container{
-    margin-top: 360px;
-    text-shadow: 1px 1px #a0b0a4e2;
-}
-h1.title {
-text-align: center;
-padding-top: 5px;
-text-size-adjust: 200px;
-color:white;
-
-}
-
-h1.message {
-    text-align: center;
-    font-size: 30px;
-    color:white;  
-    text-align: center; 
-    margin-bottom:10px;
- }
-
-h1.miniTitle {
-    text-align: left;
-    padding-top: 5px;
-    text-size-adjust: 100px;
-    color: white;
-}
-p.subtitle {
-text-align: center;
-padding: 20px;
-text-size-adjust: 30px;
-color:white;
-}
-
-p.paragraph {
-    text-align: left;
-    padding: 20px;
-    text-size-adjust: 20px;
-    color: white;
-}
-
-div.mainImage{
-width: fit-content;
-height:0px;
-padding:0;
-}
-img{
-    height:fit-content;
-}
-
-li a {
-   
-}
-    
-       
-    .logo img {
-        
-    }
-li.list{
-   
-   
-
-}   
-ul.menu{
-   
-    
-} 
-li.logo {
-    display: inline-block;
-    background-color: transparent;
-    vertical-align: top;
-    margin-right: 0px;
-    padding-right: 0px;
-}
-li.home {
-    margin: 2px;
-    top:0;
-    display: inline-block;
-    background-color: transparent;
-}
-ul.list{
-    background-color: transparent;
-    padding-top: 20px;
-}
-div.menu{
-    top:0;
-    background-color: transparent;
-    margin-left: 10px;
-}
-div.height{
-    top:0;
-    margin-left: 10px;
-}
-div.pic{
-    padding-top:80px;
-    width: 300px;
-    float: left;
-
-}
-div.gif{
-    display: flex;
-    justify-content: center;  
-}  
-   
-
-div.content{
-    margin:40px;
-    margin-top:60px;
-    margin-left: 100px;
-    right:600px;
-    text-align: left;
-}
-h3.aboutMe1{
-  margin:20px;
-  margin-left: 290px;
-  margin-right:50px;
-  text-align: left;
-}
-div.under{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top:50px;
-}
-h2.links{
-    text-align: center;
-    font-size: 18px; 
-    color:white;
-    font-family:Geneva,;
-    margin:8px;
-    
-}
-
-form{
-    margin-top: 30px;
-    display: flex;
-   align-items: center;
-}
- */
 
