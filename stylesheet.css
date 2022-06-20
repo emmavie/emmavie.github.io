@@ -70,6 +70,7 @@ nav li a:hover{
   justify-items: center;
   align-items: center;
   margin: 2rem;
+  gap:1rem;
 }
 .content img{
     padding:2rem;
