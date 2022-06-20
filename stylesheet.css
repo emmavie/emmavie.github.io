@@ -104,6 +104,32 @@ border-radius: 2px;
 background-color:#e4ffd0;
 }
 
+form{
+    margin:2rem auto;
+
+}
+.contact {
+text-align: center;
+font-size: 1rem;;
+color:#fff;
+}
+.gif img{
+margin:0 auto;
+display: block;
+}
+.contact h2{
+    font-size: 1.2rem;;
+    margin:1rem;
+}
+.contact h2 a{
+color:white;
+text-decoration:none;
+}
+.contact h2 a:hover{
+    text-decoration:underline;
+    font-size: 1.3;
+}
+
 
 
 
