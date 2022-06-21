@@ -63,6 +63,7 @@ nav li a:hover{
     font-family: 'Cookie', cursive;
     font-weight: 1;
     font-size: 5rem;
+    margin:1rem auto .2rem;
 }
 .content{
   display:grid;
@@ -77,8 +78,9 @@ nav li a:hover{
    
 }
 .title h2{
-    font-size: 1.4rem;
+    font-size: 2rem;
      margin:0;
+   
 }
 main{
     display: flex;
@@ -90,9 +92,9 @@ h2{
     margin-top: 8rem;
     color:white;
     text-align: center;
-    font-size: 2.3rem;
+    font-size: 3rem;
     font-weight: bolder;
-
+    font-family: 'Cookie', cursive;
 }  
 section{
     margin:2rem;
@@ -104,24 +106,21 @@ border-radius: 2px;
 background-color:#e4ffd0;
 }
 
-form{
-margin: 2rem auto;
-display: flex;
-flex-direction: column;
-align-items: stretch;
-}
 .contact {
 text-align: center;
 font-size: 1rem;;
 color:#fff;
+margin: 0 10rem;
+
 }
 .gif img{
 margin:0 auto;
 display: block;
 }
 .contact h2{
-    font-size: 1.2rem;;
+    font-size: 1.4rem;
     margin:1rem;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 .contact h2 a{
 color:white;
@@ -133,16 +132,10 @@ text-decoration:none;
 }
 .contact h2:hover{
     font-size: 1.3;
-    padding:.5rem;
 }
 .contact:hover{
     border:#3E843E solid .2rem;
-    margin: 0 10rem;
-
 }
-
-
-
 
 
 
