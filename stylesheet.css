@@ -105,8 +105,10 @@ background-color:#e4ffd0;
 }
 
 form{
-    margin:2rem auto;
-
+margin: 2rem auto;
+display: flex;
+flex-direction: column;
+align-items: stretch;
 }
 .contact {
 text-align: center;
@@ -130,6 +132,49 @@ text-decoration:none;
     font-size: 1.3;
 }
 
+main{
+    overflow-x: hidden;
+    background-color: white;
+    margin: 1rem 10rem;
+    border-radius: .4rem;
+    border:#3E843E solid .2rem;
+}
+form h2{
+    margin:2rem;
+}
+form label{
+    margin:1rem 0;
+    color:black;
+}
+
+form input[type=text]{
+    padding:.3rem;
+    border-style:solid;
+    border-top:#3E843E;
+    border-left:#3E843E;
+    border-right:#3E843E;
+    
+}
+form input:focus, form textarea:focus{
+outline:none;
+}
+textarea{
+    height:8rem;
+    width:12rem;
+}
+input[type=submit]{
+    margin:1rem auto;
+    width:35%;
+    background-color:#7E9F5B;
+    padding: .6rem;
+    border-radius: .5rem;
+    border:#3E843E solid .1rem;
+    color:white;
+}
+input[type=submit]:hover{
+    box-shadow: 0 0 1rem #98bd71;
+    padding:.7rem;
+}
 
 
 

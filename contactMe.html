@@ -29,16 +29,15 @@
 </div>
   
 <main class="form">
-<form id ="contact" method = "post" action ="">
-    <div>
-<input name="Email" type="email" class="contact" placeholder="Your e-mail address" required>
-</div>
-<div>
-<textarea name = "Message" class="contact" placeholder="Your Message" row = "5"> </textarea>
-</div>
-<div>
-<input type="submit" class="contact submit" value="Send Message"> 
-</div>
+    <form method="POST" action="form.php" id="contact-form">
+        <label>First Name:</label>
+         <input name="name" type="text" />
+        <label>Email Address:</label> 
+        <input style="cursor: pointer;" name="email" type="text" />
+        <label>Message:</label> 
+         <textarea name="message"></textarea>
+        <input type="submit" value="Send" />
+        </form>
 </main>
 
 </body>
