@@ -1,5 +1,5 @@
 @import "reset.css";
-@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Italiana&family=Lora:ital@1&family=Nanum+Gothic&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Lora:ital@1&family=Nanum+Gothic&family=Playball&display=swap');
 
 *{
     scroll-behavior: smooth;
@@ -19,6 +19,7 @@ background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
 height: calc(100vw * 383 / 756); 
+background-attachment: fixed;
 }
 
 nav ul{
@@ -99,6 +100,7 @@ h2{
     text-align: center;
     font-size: 3rem;
     font-weight: bolder;
+    font-family: 'Playball', cursive;
 }  
 section{
     margin:2rem;
@@ -116,7 +118,9 @@ font-size: 1rem;;
 color:#fff;
 margin: 0 10rem;
 }
-
+main .skills h2{
+    font-family: 'Playball', cursive;
+}
 .contact h1{
     font-family: 'Nanum Gothic', sans-serif;
 }
@@ -145,7 +149,12 @@ font-family: 'Nanum Gothic', sans-serif;
 .contact:hover{
     border:#3E843E solid .2rem;
 }
-
+.projs{
+    margin:2rem 5rem;
+}
+.proj{
+    
+}
 
 
 
